@@ -16,6 +16,19 @@
   doi: 10.1016/j.comnet.2025.111890
 
 
+- id: iris_2026_e6175c6429ee6635d788
+  id_iris: 368727,
+  title: "Multi-Energy System Optimization of Costs Versus Carbon Dioxide Emissions for Flexibility. A Case Study in Italy"
+  authors:
+    - MarceloDarioRodasBritez
+    - FrancescoGhionda
+    - VasileiosTatsis
+    - DimosthenisIoannidis
+  destination: energyengineering
+  year: 2026
+  doi: 10.32604/ee.2026.078082
+
+
 - id: iris_2026_6d0d471398135879b86d
   id_iris: 365427,
   title: "Exploiting Kubernetes' Image Pull Implementation to Deny Node Availability"
@@ -39,20 +52,6 @@
   destination: 21stinternationalconferenceonnetworkandservicemanagement
   year: 2025
   doi: 10.23919/cnsm67658.2025.11297559
-
-
-- id: iris_2025_f2dee03ebee676c2eeef
-  id_iris: 367147,
-  title: "Adaptive Federated Learning with Functional Encryption: A Comparison of Classical and Quantum-safe Options"
-  authors:
-    - EnricoSorbera
-    - FedericaZanetti
-    - GiacomoBrandi
-    - AlessandroTomasi
-    - RobertoDoriguzziCorin
-    - SilvioRanise
-  destination: 2025artificialintelligencemodelsandsystemssymposiumaimsandfoundationsoflearningandlanguagemodelsfllm
-  year: 2025
 
 
 - id: iris_2025_ee27c892d9762dd36c1f
@@ -116,6 +115,20 @@
   doi: 10.3390/su17146433
 
 
+- id: iris_2025_9b5ef3ac080e3a51d4d7
+  id_iris: 367387,
+  title: "Towards Cryptography Bill of Materials Compliance"
+  authors:
+    - ClaudioForoncelli
+    - AlessandroTomasi
+    - LucaPiras
+    - LuisAugustoDiasKnob
+    - PietroDeMatteis
+    - SilvioRanise
+  destination: ininternationalsecuritystandardisationresearchconferencessrspringer2025
+  year: 2025
+
+
 - id: iris_2025_545ae5e10c1aeabccd7d
   id_iris: 362587,
   title: "From Edge to Cloud: Securing Distributed Containerized Applications"
@@ -166,6 +179,21 @@
   destination: computerssecurity
   year: 2025
   doi: 10.1016/j.cose.2024.104144
+
+
+- id: iris_2025_09a5ed532e3514a70971
+  id_iris: 367147,
+  title: "Adaptive Federated Learning with Functional Encryption: A Comparison of Classical and Quantum-safe Options"
+  authors:
+    - EnricoSorbera
+    - FedericaZanetti
+    - GiacomoBrandi
+    - AlessandroTomasi
+    - RobertoDoriguzziCorin
+    - SilvioRanise
+  destination: 20253rdinternationalconferenceonfoundationandlargelanguagemodelsfllm
+  year: 2025
+  doi: 10.1109/FLLM67465.2025.11391241
 
 
 - id: iris_2024_ff4828f58bbb2ab83751

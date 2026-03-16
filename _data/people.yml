@@ -797,6 +797,10 @@
   name:  Claudio Ettore
   surname: Casetti
 
+- id: ClaudioForoncelli
+  name:  Claudio
+  surname: Foroncelli
+
 - id: ClaudioPeroni
   name:  Claudio
   surname: Peroni
@@ -876,6 +880,10 @@
 - id: DimitriosKlonidis
   name:  Dimitrios
   surname: Klonidis
+
+- id: DimosthenisIoannidis
+  name:  Dimosthenis
+  surname: Ioannidis
 
 - id: DomenicoLaFauci
   name:  Domenico
@@ -1004,6 +1012,10 @@
 - id: FrancescoCappa
   name:  Francesco
   surname: Cappa
+
+- id: FrancescoGhionda
+  name:  Francesco
+  surname: Ghionda
 
 - id: FrancescoMusumeci
   name:  Francesco
@@ -1460,6 +1472,10 @@
 - id: LucaMottola
   name:  Luca
   surname: Mottola
+
+- id: LucaPiras
+  name:  Luca
+  surname: Piras
 
 - id: LucaVerderame
   name:  Luca
@@ -2108,6 +2124,10 @@
 - id: V.S.Chava
   name:  V. S.
   surname: Chava
+
+- id: VasileiosTatsis
+  name:  Vasileios
+  surname: Tatsis
 
 - id: VictorFuentes
   name:  Victor

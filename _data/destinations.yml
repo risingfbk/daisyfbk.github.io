@@ -218,10 +218,9 @@
   type: conference
   proceedings: Proceedings of 2024 IEEE Symposium on Computers and Communications (ISCC)
 
-- id: 2025artificialintelligencemodelsandsystemssymposiumaimsandfoundationsoflearningandlanguagemodelsfllm
-  name: 2025 Artificial Intelligence Models and Systems Symposium (AIMS) and Foundations of Learning and Language Models (FLLM)
+- id: 20253rdinternationalconferenceonfoundationandlargelanguagemodelsfllm
+  name: 2025 3rd International Conference on Foundation and Large Language Models (FLLM)
   type: conference
-  proceedings: Proceedings of 2025 Artificial Intelligence Models and Systems Symposium (AIMS) and Foundations of Learning and Language Models (FLLM)
 
 - id: 21stinternationalconferenceoninformationandcommunicationssecurityicics2019
   name: 21st International Conference on Information and Communications Security (ICICS 2019)
@@ -357,6 +356,10 @@
 
 - id: energies
   name: Energies
+  type: journal
+
+- id: energyengineering
+  name: Energy Engineering
   type: journal
 
 - id: europeanconferenceonnetworksandcommunicationseucnc2015
@@ -521,6 +524,10 @@
   name: IFIP Networking Conference 2021
   type: conference
   proceedings: Proceedings of IFIP Networking Conference 2021
+
+- id: ininternationalsecuritystandardisationresearchconferencessrspringer2025
+  name: In Proceedings of International Security Standardisation Research Conference (SSR). Springer, 2025.
+  type: conference
 
 - id: internationalconferenceonopticalnetworkdesignandmodelingondm2015
   name: International Conference on Optical Network Design and Modeling (ONDM), 2015
