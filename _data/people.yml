@@ -235,6 +235,17 @@
   surname: Vallazza
 
 # Interns
+- id: MatteoBitussi
+  name: Matteo
+  surname: Bitussi
+  email: mbitussi@fbk.eu
+  usernameFBK: mbitussi
+
+- id: MatteoBordignon
+  name: Matteo
+  surname: Bordignon
+  email: mbordignon@fbk.eu
+  usernameFBK: mbordignon
 
 - id: FrancescoMarchetto
   name: Francesco
