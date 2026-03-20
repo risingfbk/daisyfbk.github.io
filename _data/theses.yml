@@ -1,3 +1,29 @@
+- id: MatteoBordignon_M
+  author: MatteoBordignon
+  type: M
+  title: "Machine Learning-Based Vulnerability Detection in WebAssembly Using WASI Execution Traces"
+  institution: University of Trento
+  year: 2026
+  supervisor: RobertoDoriguzziCorin
+  co-supervisor:
+    - LuisAugustoDiasKnob
+
+- id: MatteoBitussi_M
+  author: MatteoBitussi
+  type: M
+  title: "Explainable Anomaly Detection in Web Data using Transformer-based Language Models"
+  institution: University of Trento
+  year: 2026
+  supervisor: RobertoDoriguzziCorin
+
+- id: AlessiaPivotto_M
+  author: AlessiaPivotto
+  type: M
+  title: "Hardening NIDSs Against Evasion with Fragmented Adversarial Traffic"
+  institution: University of Trento
+  year: 2026
+  supervisor: RobertoDoriguzziCorin
+
 - id: ChristianSassi_M
   author: ChristianSassi
   type: M
