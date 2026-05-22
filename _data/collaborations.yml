@@ -44,6 +44,7 @@
 - id: nubee
   name: Nubee
   startYear: 2025
+  endYear: 2026
   description: Private business located in Italy.
   logo: nubee.png
   url:
