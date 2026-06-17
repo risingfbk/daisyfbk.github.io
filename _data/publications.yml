@@ -41,41 +41,6 @@
   doi: 10.23919/cnsm67658.2025.11297559
 
 
-- id: iris_2025_ee27c892d9762dd36c1f
-  id_iris: 357329,
-  title: "DiversityOne: A Multi-Country Smartphone Sensor Dataset for Everyday Life Behavior Modeling"
-  authors:
-    - MatteoBusso
-    - AndreaBontempelli
-    - LeonardoJavierMalcotti
-    - LakmalMeegahapola
-    - PeterKun
-    - ShyamDiwakar
-    - ChaitanyaNutakki
-    - MarceloDarioRodasBritez
-    - XuHao
-    - DongleiSong
-    - SalvadorRuizCorrea
-    - Andrea-RebecaMendoza-Lara
-    - GeorgeGaskell
-    - SallyStares
-    - MiriamBidoglia
-    - AmarsanaaGanbold
-    - AltangerelChagnaa
-    - LucaCernuzzi
-    - AlethiaHume
-    - RonaldChenu-Abente
-    - RoyAliaAsiku
-    - IvanKayongo
-    - DanielGatica-Perez
-    - AmaliadeGotzen
-    - IvanoBison
-    - FaustoGiunchiglia
-  destination: acmoninteractivemobilewearableandubiquitoustechnologies
-  year: 2025
-  doi: 10.1145/3712289
-
-
 - id: iris_2025_bd945b004b12734c7b20
   id_iris: 365888,
   title: "Disruption-Aware Microservice Re-Orchestration for Cost-Efficient Multi-Cloud Deployments"
@@ -100,6 +65,20 @@
   destination: sustainability
   year: 2025
   doi: 10.3390/su17146433
+
+
+- id: iris_2025_9b5ef3ac080e3a51d4d7
+  id_iris: 367387,
+  title: "Towards Cryptography Bill of Materials Compliance"
+  authors:
+    - ClaudioForoncelli
+    - AlessandroTomasi
+    - LucaPiras
+    - LuisAugustoDiasKnob
+    - PietroDeMatteis
+    - SilvioRanise
+  destination: ininternationalsecuritystandardisationresearchconferencessrspringer2025
+  year: 2025
 
 
 - id: iris_2025_545ae5e10c1aeabccd7d
@@ -128,6 +107,18 @@
   doi: 10.1109/EuroSPW67616.2025.00077
 
 
+- id: iris_2025_292410c941edc5932843
+  id_iris: 367207,
+  title: "CPAD: Constraint-Projected Adversarial Attack for Dependable Network Intrusion Detection"
+  authors:
+    - MichaelKevinNtakoKoungni
+    - DomenicoSiracusa
+    - RobertoDoriguzziCorin
+  destination: procofthe3rdinternationalconferenceonfoundationandlargelanguagemodelsfllm
+  year: 2025
+  doi: 10.1109/fllm67465.2025.11391031
+
+
 - id: iris_2025_220419fbe6e1d3d85d0d
   id_iris: 355207,
   title: "A Proactive Decoy Selection Scheme for Cyber Deception using MITRE ATT&CK"
@@ -138,6 +129,21 @@
   destination: computerssecurity
   year: 2025
   doi: 10.1016/j.cose.2024.104144
+
+
+- id: iris_2025_09a5ed532e3514a70971
+  id_iris: 367147,
+  title: "Adaptive Federated Learning with Functional Encryption: A Comparison of Classical and Quantum-safe Options"
+  authors:
+    - EnricoSorbera
+    - FedericaZanetti
+    - GiacomoBrandi
+    - AlessandroTomasi
+    - RobertoDoriguzziCorin
+    - SilvioRanise
+  destination: 20253rdinternationalconferenceonfoundationandlargelanguagemodelsfllm
+  year: 2025
+  doi: 10.1109/FLLM67465.2025.11391241
 
 
 - id: iris_2024_ff4828f58bbb2ab83751
@@ -294,21 +300,6 @@
   doi: 10.1109/iscc61673.2024.10733585
 
 
-- id: iris_2024_3524bb02a8a09a4a2341
-  id_iris: 357372,
-  title: "Artificial Intelligence in Everyday Life 2.0: Educating University Students from Different Majors"
-  authors:
-    - MariaKasinidou
-    - StylianiKleanthous
-    - MatteoBusso
-    - MarceloDarioRodasBritez
-    - JahnaOtterbacher
-    - FaustoGiunchiglia
-  destination: iticse20242024oninnovationandtechnologyincomputerscienceeducationv1
-  year: 2024
-  doi: 10.1145/3649217.3653542
-
-
 - id: iris_2024_11d4d3a8fe8b064d89bb
   id_iris: 354427,
   title: "PolyGloT-UML: A Gamified Framework for Enhancing UML Learning Paths"
@@ -368,42 +359,6 @@
   doi: 10.1109/BigData59044.2023.10386446
 
 
-- id: iris_2023_7dd523fb6396b7da38fa
-  id_iris: 357489,
-  title: "Generalization and Personalization of Mobile Sensing-Based Mood Inference Models: An Analysis of College Students in Eight Countries"
-  authors:
-    - LakmalMeegahapola
-    - WilliamDroz
-    - PeterKun
-    - AmaliadeGotzen
-    - ChaitanyaNutakki
-    - ShyamDiwakar
-    - SalvadorRuizCorrea
-    - DongleiSong
-    - XuHao
-    - MiriamBidoglia
-    - GeorgeGaskell
-    - AltangerelChagnaa
-    - AmarsanaaGanbold
-    - TsolmonZundui
-    - CarloCaprini
-    - DanieleMiorandi
-    - AlethiaHume
-    - JoseLuisZarza
-    - LucaCernuzzi
-    - IvanoBison
-    - MarceloDarioRodasBritez
-    - MatteoBusso
-    - RonaldChenu-Abente
-    - CanGunel
-    - FaustoGiunchiglia
-    - LauraSchelenz
-    - DanielGatica-Perez
-  destination: acmoninteractivemobilewearableandubiquitoustechnologies
-  year: 2023
-  doi: 10.1145/3569483
-
-
 - id: iris_2023_218be0b36d780a2d0eaf
   id_iris: 339487,
   title: "Enhancing Network Intrusion Detection: An Online Methodology for Performance Analysis"
@@ -414,19 +369,6 @@
   destination: 2023ieee9thinternationalconferenceonnetworksoftwarizationnetsoft
   year: 2023
   doi: 10.1109/NetSoft57336.2023.10175465
-
-
-- id: iris_2023_138680a74c3816f687be
-  id_iris: 346487,
-  title: "A Context Model for Personal Data Streams"
-  authors:
-    - FaustoGiunchiglia
-    - LiXiaoyue
-    - MatteoBusso
-    - MarceloDarioRodasBritez
-  destination: webandbigdata6thinternationaljointconferenceapwebwaim2022nanjingchinanovember25272022parti
-  year: 2023
-  doi: 10.1007/978-3-031-25158-0_4
 
 
 - id: iris_2022_d59e797b27217caa5885
