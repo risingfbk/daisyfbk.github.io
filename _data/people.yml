@@ -24,6 +24,16 @@
       institution: Fondazione Bruno Kessler
       place: Trento, Italy
 
+- id: DenisDonadel
+  name: Denis
+  surname: Donadel
+  email: ddonadel@fbk.eu
+  affiliations:
+    - role: Researcher
+      unit: Distributed AI for dependable cyberSecuritY
+      institution: Fondazione Bruno Kessler
+      place: Trento, Italy
+
 - id: EliaZiviani
   name: Elia
   surname: Ziviani
