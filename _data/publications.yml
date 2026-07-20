@@ -16,6 +16,20 @@
   doi: 10.1016/j.comnet.2025.111890
 
 
+- id: iris_2026_b6b4a70acdb841f85c85
+  id_iris: 372507,
+  title: "INTELLECT: From federated training to resource-aware cyber threat detection"
+  authors:
+    - SimoneMagnani
+    - LiubovNedoshivina
+    - RobertoDoriguzziCorin
+    - StefanoBraghin
+    - DomenicoSiracusa
+  destination: computernetworks
+  year: 2026
+  doi: 10.1016/j.comnet.2026.112577
+
+
 - id: iris_2026_6d0d471398135879b86d
   id_iris: 365427,
   title: "Exploiting Kubernetes' Image Pull Implementation to Deny Node Availability"
@@ -67,20 +81,6 @@
   doi: 10.3390/su17146433
 
 
-- id: iris_2025_9b5ef3ac080e3a51d4d7
-  id_iris: 367387,
-  title: "Towards Cryptography Bill of Materials Compliance"
-  authors:
-    - ClaudioForoncelli
-    - AlessandroTomasi
-    - LucaPiras
-    - LuisAugustoDiasKnob
-    - PietroDeMatteis
-    - SilvioRanise
-  destination: ininternationalsecuritystandardisationresearchconferencessrspringer2025
-  year: 2025
-
-
 - id: iris_2025_545ae5e10c1aeabccd7d
   id_iris: 362587,
   title: "From Edge to Cloud: Securing Distributed Containerized Applications"
@@ -129,6 +129,21 @@
   destination: computerssecurity
   year: 2025
   doi: 10.1016/j.cose.2024.104144
+
+
+- id: iris_2025_0f406f1a954ce2673406
+  id_iris: 367387,
+  title: "Towards Cryptography Bill of Materials Compliance"
+  authors:
+    - ClaudioForoncelli
+    - AlessandroTomasi
+    - LucaPiras
+    - LuisAugustoDiasKnob
+    - PietroDeMatteis
+    - SilvioRanise
+  destination: internationalsecuritystandardisationresearchconferencessrspringer2025
+  year: 2025
+  doi: 10.1007/978-3-032-19567-8_10
 
 
 - id: iris_2025_09a5ed532e3514a70971
@@ -208,6 +223,22 @@
   doi: 10.1109/netsoft60951.2024.10588938
 
 
+- id: iris_2024_eb144e3a0af1fdc2e08c
+  id_iris: 346347,
+  title: "Coercion-resistant i-voting with short PIN and OAuth 2.0"
+  authors:
+    - MatteoBitussi
+    - RiccardoLongo
+    - FrancescoAntonioMarino
+    - UmbertoMorelli
+    - AmirSharif
+    - ChiaraSpadafora
+    - AlessandroTomasi
+  destination: gieditionlecturenotesininformaticslnip347evoteid2023
+  year: 2024
+  doi: 10.18420/e-vote-id2023_04
+
+
 - id: iris_2024_d625eb2a46d509cdfcf4
   id_iris: 346387,
   title: "Multi-Objective Microservice Orchestration: Balancing Security and Performance in CCAM"
@@ -234,6 +265,21 @@
   destination: 2024ieeeeuropeansymposiumonsecurityandprivacyworkshopseurospw
   year: 2024
   doi: 10.1109/eurospw61312.2024.00086
+
+
+- id: iris_2024_aa2620b01fc57a865cf0
+  id_iris: 351187,
+  title: "CSRFing the SSO Waves: Security Testing of SSO-Based Account Linking Process"
+  authors:
+    - AndreaBisegna
+    - MatteoBitussi
+    - RobertoCarbone
+    - LucaCompagna
+    - SilvioRanise
+    - AvinashSudhodanan
+  destination: 2024ieee9theuropeansymposiumonsecurityandprivacyeurosp
+  year: 2024
+  doi: 10.1109/eurosp60621.2024.00016
 
 
 - id: iris_2024_a5fed453871f7bf4554c
@@ -298,6 +344,19 @@
   destination: 2024ieeesymposiumoncomputersandcommunicationsiscc
   year: 2024
   doi: 10.1109/iscc61673.2024.10733585
+
+
+- id: iris_2024_3354ec46a9c19c1b65be
+  id_iris: 352727,
+  title: "Enhancing Security Testing for Identity Management Implementations: Introducing Micro-Id-Gym Language and Micro-Id-Gym Testing Tool"
+  authors:
+    - AndreaBisegna
+    - MatteoBitussi
+    - RobertoCarbone
+    - SilvioRanise
+  destination: ieeesecurityprivacy
+  year: 2024
+  doi: 10.1109/MSEC.2024.3450277
 
 
 - id: iris_2024_11d4d3a8fe8b064d89bb

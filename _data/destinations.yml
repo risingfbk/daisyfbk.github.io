@@ -208,6 +208,11 @@
   type: conference
   proceedings: Proceedings of 2024 IEEE 10th International Conference on Network Softwarization (NetSoft)
 
+- id: 2024ieee9theuropeansymposiumonsecurityandprivacyeurosp
+  name: 2024 IEEE 9th European Symposium on Security and Privacy (EuroS&P)
+  type: conference
+  proceedings: Proceedings of 2024 IEEE 9th European Symposium on Security and Privacy (EuroS&P)
+
 - id: 2024ieeeeuropeansymposiumonsecurityandprivacyworkshopseurospw
   name: 2024 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
   type: conference
@@ -392,6 +397,10 @@
   name: Future Internet Symposium 2011
   type: conference
 
+- id: gieditionlecturenotesininformaticslnip347evoteid2023
+  name: Gi-edition Lecture Notes in Informatics (LNI) - P347 E-vote-id 2023
+  type: conference
+
 - id: icc2022ieeeinternationalconferenceoncommunications
   name: Icc 2022 - IEEE International Conference on Communications
   type: conference
@@ -479,6 +488,10 @@
   type: conference
   proceedings: Proceedings of IEEE Netsoft Conference and Workshops (NetSoft), 2016
 
+- id: ieeesecurityprivacy
+  name: IEEE Security & Privacy
+  type: journal
+
 - id: ieeesystemsjournal
   name: IEEE Systems Journal
   type: journal
@@ -518,10 +531,6 @@
   type: conference
   proceedings: Proceedings of IFIP Networking Conference 2021
 
-- id: ininternationalsecuritystandardisationresearchconferencessrspringer2025
-  name: In Proceedings of International Security Standardisation Research Conference (SSR). Springer, 2025.
-  type: conference
-
 - id: internationalconferenceonopticalnetworkdesignandmodelingondm2015
   name: International Conference on Optical Network Design and Modeling (ONDM), 2015
   type: conference
@@ -535,6 +544,11 @@
 - id: internationaljournalofcommunicationnetworksanddistributedsystems
   name: International Journal of Communication Networks and Distributed Systems
   type: journal
+
+- id: internationalsecuritystandardisationresearchconferencessrspringer2025
+  name: International Security Standardisation Research Conference (SSR). Springer, 2025.
+  type: conference
+  proceedings: Proceedings of International Security Standardisation Research Conference (SSR). Springer, 2025.
 
 - id: journalofgridcomputing
   name: Journal of Grid Computing
