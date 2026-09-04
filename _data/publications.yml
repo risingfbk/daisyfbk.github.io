@@ -3,6 +3,18 @@
 # The following string is a separator used by the parser to trim away generated content
 # Please, please, please, keep this here!
 #--#--#--#--#--#
+- id: iris_2026_ff479b5bcfccd4c70770
+  id_iris: 373807,
+  title: "From Source Code to Kubernetes Manifests: Guiding LLMs with Structured Metadata"
+  authors:
+    - MatteoFranzil
+    - UlisesEmilianoSosa
+    - DomenicoSiracusa
+  destination: noms2026ieeenetworkoperationsandmanagementsymposium
+  year: 2026
+  doi: 10.1109/noms69089.2026.11668116
+
+
 - id: iris_2026_ef42f67851780044e79e
   id_iris: 364967,
   title: "Sharpening Kubernetes Audit Logs with Context Awareness"
